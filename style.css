@@ -1,0 +1,18 @@
+html { 
+background-color: beige;
+font-size: 16px;
+}
+h1 {
+	font-weight: bold;
+	font-family: Impact, Arial, Verdana;
+}
+h1,aside{ 
+text-align: center
+} 
+body {
+width: 700px; height: 700px; text-align: justify; margin: auto; 	
+}
+.intro {
+	font-style: italic; 
+	font-family: times new roman;
+}
