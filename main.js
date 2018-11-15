@@ -1,3 +1,3 @@
 setTimeout(function() {  
-alert('bonjour tu veux accéder à ce site: https://www.youtube.com/watch?v=dQw4w9WgXcQ');
+alert('on a réussis à mettre un compte à rebour au message!! Maintenant on fait comment pour mettre un lien à un popup, avec le javascript???');
 }, 10000);
