@@ -3,6 +3,7 @@
  ###  Description du site:  
 
 Le Bettermotherfuckingwebsite est une version améliorée de Motherfuckingwebsite.  
+Nous avons utilisés le langage HTML, CSS ainsi que JavaScript pour le pop-up.  
 Voici  le ci-dessous le lien de notre site en production Bettermotherfuckingwebsite.  
 *https://sarahtaraminy.github.io/BETTERMOTHERFUCKINGWEBSITE/*
 
